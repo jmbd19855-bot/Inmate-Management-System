@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: inmate-management-system
+    env: docker
+    autoDeploy: true
